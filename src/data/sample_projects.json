@@ -79,7 +79,49 @@
     "lines_of_code": "",
     "websiteURL": "https://transferwise-frontendalone.vercel.app/",
     "githubURL": "https://github.com/saladinjake/NODEJS_CHAKRAUI-REACT_Fullstack-Transferwise-EXERCISE-"
-  }
+  },
+
+  {
+    "id": {
+      "id": 3
+    },
+    "title": "QUESTENCE",
+    "desc": "ED-TECH E-commerce website - react js",
+    "thumbnail": "images/package/app3/landing.jpg",
+    "imagesURL": [
+      "images/package/app3/landing.jpg",
+      "images/package/app3/course-search.jpg",
+      "images/package/app3/course-detail.jpg",
+      "images/package/app3/login.jpg"
+    ],
+    "projectTypes": {
+      "type": "E commerce",
+      "version": "Full app",
+      "size": "medium"
+    },
+    "technologys": [
+      {
+        "html": [""],
+        "css": ["flex box", "grid system","bootsrap"],
+        "javascript": ["local storage", "ES6"],
+        "react": ["React", "Redux", "reducers"]
+      }
+    ],
+    "components": ["Home", "All Courses", "Course Details", "checkout page"],
+    "owner": "saladinjake",
+    "time_upload": null,
+    "rating": 6.9,
+    "pages": 6,
+    "dynamic": true,
+    "responsive": false,
+    "colors": ["#dc3030", "#f5eee4"],
+    "fonts": ["Helvetica Now Text", "Trajan Prot", "arial"],
+    "themes": ["light"],
+    "code": "private",
+    "websiteURL": "https://quest-from-bitbucket.vercel.app/",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
 
   
 ]
