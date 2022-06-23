@@ -8,9 +8,9 @@ export default {
   },
   colors: {
     primary1: "hsl(204,20.8%,85.9%)",
-    background1: "#0f0f1b",
+    background1: "#0c0e1b",
     accent1: "hsl(34.5,97.6%,62.9%)",
-    button: "hsl(200.4,100%,30.1%)",
+    button: "#fff",
     background2: "#1f1f2b",
   },
   

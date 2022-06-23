@@ -1,7 +1,7 @@
-export const aminbenzData = [
+export const myData = [
   {
     name: 'JUWA VICTOR (SALADINJAKE)',
-    phone: 53710722,
+    phone: +2348130870416,
     email: 'juwavictor@gmail.com',
     github: 'github.com/saladinjake',
     instagram: 'github.com/saladinjake',
@@ -11,13 +11,13 @@ export const aminbenzData = [
     lastProjectName: 'pacemaker',
     resume: './images/JuwaVictorResume.pdf',
     age: '25',
-    jobTitle: 'Full stack Developer',
+    jobTitle: '#Frontend Dev',
     summary: {
-      main: 'Full stack Developer a full-time position in the web designing, where i can apply my knowledge and skills for continuous improvement.',
+      main: 'I am just some random geek with a keen interest in #Frontend developement and #Backend development, a full-time position in the web designing, where i can apply my knowledge and skills for continuous improvement.',
       secondary:
-        'Full stack Developer with frontend role in Reactjs a full-time position in the web designing, where i can apply my knowledge and skills for continuous improvement,  also  learning Back-End Development and looking forward to be a Full Stack Web Developer.',
+        'A Full stack Developer with frontend role in Reactjs a full-time position in the web designing, where i can apply my knowledge and skills for continuous improvement,  also  learning Back-End Development and looking forward to be a Full Stack Web Developer.',
       third:
-        'I am motivated towards  bringing meaningful ideas to life through code. My interest in technology has allowed me to advance my skills with unique projects, providing valuable experience working with others.',
+        'I am just some random geek with a keen interest in #Frontend developement and #Backend development, a full-time position in the web designing, where i can apply my knowledge and skills for continuous improvement.',
     },
     technologys: {
       frontEnd: ['HTML / CSS / SASS / JAVASCRIPT React/Vue/Angular (ES6) & OOP / Typescript '],
