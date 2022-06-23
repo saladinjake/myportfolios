@@ -3,18 +3,12 @@
     "id": {
       "id": 1
     },
-    "title": "app",
-    "desc": "Landing Page with Bootstrap & Reactjs",
-    "thumbnail": "images/thumbnail/downloadapp-bunner.jpg",
+    "title": "React Dashboard",
+    "desc": "Dashboard Landing Page with Bootstrap & Reactjs",
+    "thumbnail": "images/package/app1/sample1.jpg",
     "imagesURL": [
-      "images/images-package/app2/1.jpg",
-      "images/images-package/app2/2.jpg",
-      "images/images-package/app2/3.jpg",
-      "images/images-package/app2/4.jpg",
-      "images/images-package/app2/5.jpg",
-      "images/images-package/app2/6.jpg",
-      "images/images-package/app2/8.png",
-      "images/images-package/app2/10.png"
+      "images/package/app1/sample1.png"
+      
     ],
     "projectTypes": {
       "type": "app download",
@@ -28,7 +22,7 @@
         "reactjs": [""]
       }
     ],
-    "owner": "amin benz",
+    "owner": "saladinjake",
     "time_upload": null,
     "rating": 6,
     "pages": 1,
@@ -39,8 +33,53 @@
     "themes": ["white"],
     "code": "private",
     "lines_of_code": "",
-    "websiteURL": "https://app-promo.netlify.app/",
-    "githubURL": ""
+    "websiteURL": "https://react-uidemo-dashboard-test.vercel.app/",
+    "githubURL": "https://github.com/saladinjake/ReactUIDEMO-DASHBOARD-TEST"
+  },
+
+
+  {
+    "id": {
+      "id": 2
+    },
+    "title": "Trasnfer Wise App",
+    "desc": "NEXT JS chakra ui Trasnferwise implementation where loggedin user can transfer or recieve money. Onsign up , first timer gets 1000 usd. user can send money or recieve money in 3 different currencies ",
+    "thumbnail": "images/package/app2/dashboard_firstimer.jpg",
+    "imagesURL": [
+      "images/package/app2/dashboard_firstimer.jpg",
+      "images/package/app2/login.jpg",
+      "images/package/app2/signup.jpg",
+      "images/package/app2/transfermoney.jpg",
+      "images/package/app2/transferconfirmation.jpg"
+      
+    ],
+    "projectTypes": {
+      "type": "app download",
+      "version": "full",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "css": [""],
+        "bootstrap": [""],
+        "reactjs": ["nextjs", "chakra-ui/react"],
+        "nodejs":["expressjs /mongodb/ javascript"]
+      }
+    ],
+    "owner": "saladinjake",
+    "time_upload": null,
+    "rating": 6,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": true,
+    "colors": ["#6e00ff", "#ffab00", "#36b37e", "#ffab00", "#d7f0e5"],
+    "fonts": ["nunito"],
+    "themes": ["white"],
+    "code": "private",
+    "lines_of_code": "",
+    "websiteURL": "https://transferwise-frontendalone.vercel.app/",
+    "githubURL": "https://github.com/saladinjake/ReactUIDEMO-DASHBOARD-TEST"
   }
+
   
 ]

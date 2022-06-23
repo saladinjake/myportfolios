@@ -24,7 +24,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Talk is cheap. Show me the code.</Slogan>
+          <Slogan>Browse my repository for my frontend projects and demo samples.</Slogan>
           <code></code>
         </CompanyContainer>
         <SocialContainer>
