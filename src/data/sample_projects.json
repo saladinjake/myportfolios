@@ -46,11 +46,11 @@
     "desc": "NEXT JS chakra ui Trasnferwise implementation where loggedin user can transfer or recieve money. Onsign up , first timer gets 1000 usd. user can send money or recieve money in 3 different currencies ",
     "thumbnail": "images/package/app2/dashboard_firstimer.jpg",
     "imagesURL": [
-      "https://myportfolios-psi.vercel.app/images/package/app2/dashboard_firstimer.jpg",
-      "https://myportfolios-psi.vercel.app/images/package/app2/login.jpg",
-      "https://myportfolios-psi.vercel.app/images/package/app2/signup.jpg",
-      "https://myportfolios-psi.vercel.app/images/package/app2/transfermoney.jpg",
-      "https://myportfolios-psi.vercel.app/images/package/app2/transferconfirmation.jpg"
+      "https://myportfolios-psi.vercel.app/images/package/app2/dashboard_firstimer.JPG",
+      "https://myportfolios-psi.vercel.app/images/package/app2/login.JPG",
+      "https://myportfolios-psi.vercel.app/images/package/app2/signup.JPG",
+      "https://myportfolios-psi.vercel.app/images/package/app2/transfermoney.JPG",
+      "https://myportfolios-psi.vercel.app/images/package/app2/transferconfirmation.JPG"
       
     ],
     "projectTypes": {
