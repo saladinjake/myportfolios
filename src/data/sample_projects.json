@@ -165,6 +165,49 @@
     "websiteURL": "https://ed-tech-frontent-react-redux.vercel.app/",
     "githubURL": "",
     "lines_of_code": ""
+  },
+
+  {
+    "id": {
+      "id": 5
+    },
+    "title": "Adminc ED-TECH QUESTENCE V2.0",
+    "desc": "ED-TECH E-commerce website - react js, paystack integration for payment, profile management, cart,checkout",
+    "thumbnail": "images/package/app4/landing.jpg",
+    "imagesURL": [
+      "images/package/app5/landing.jpg",
+      "images/package/app5/history.jpg",
+      
+      "images/package/app4/login.jpg"
+    ],
+    "projectTypes": {
+      "type": "Edtech - commerce",
+      "version": "Full app",
+      "size": "medium"
+    },
+    "technologys": [
+      {
+        
+        "css": ["flex box", "grid system","bootsrap"],
+        "javascript": ["local storage", "ES6"],
+        "react": ["React", "Redux", "reducers"],
+        "php":["laravel"]
+      }
+    ],
+    "components": ["Home", "All Courses", "Course Details", "checkout page"],
+    "owner": "saladinjake",
+    "time_upload": null,
+    "rating": 6.9,
+    "pages": 6,
+    "dynamic": true,
+    "responsive": false,
+    "colors": ["#dc3030", "#f5eee4"],
+    "fonts": ["Helvetica Now Text", "Trajan Prot", "arial"],
+    "themes": ["light"],
+    "code": "private",
+    "websiteURL": "https://learner-admin.vercel.app/",
+    "githubURL": "",
+    "lines_of_code": ""
   }
 
 
