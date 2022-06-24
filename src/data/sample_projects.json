@@ -46,11 +46,11 @@
     "desc": "NEXT JS chakra ui Trasnferwise implementation where loggedin user can transfer or recieve money. Onsign up , first timer gets 1000 usd. user can send money or recieve money in 3 different currencies ",
     "thumbnail": "images/package/app2/dashboard_firstimer.jpg",
     "imagesURL": [
-      "https://myportfolios-psi.vercel.app/images/package/app2/dashboard_firstimer.JPG",
-      "https://myportfolios-psi.vercel.app/images/package/app2/login.JPG",
-      "https://myportfolios-psi.vercel.app/images/package/app2/signup.JPG",
-      "https://myportfolios-psi.vercel.app/images/package/app2/transfermoney.JPG",
-      "https://myportfolios-psi.vercel.app/images/package/app2/transferconfirmation.JPG"
+      "https://myportfolios-psi.vercel.app/images/package/app2/dashboard_firstimer.jpg",
+      "https://myportfolios-psi.vercel.app/images/package/app2/login.jpg",
+      "https://myportfolios-psi.vercel.app/images/package/app2/signup.jpg",
+      "https://myportfolios-psi.vercel.app/images/package/app2/transfermoney.jpg",
+      "https://myportfolios-psi.vercel.app/images/package/app2/transferconfirmation.jpg"
       
     ],
     "projectTypes": {
@@ -85,7 +85,7 @@
     "id": {
       "id": 3
     },
-    "title": "QUESTENCE",
+    "title": "QUESTENCE V2.0",
     "desc": "ED-TECH E-commerce website - react js",
     "thumbnail": "images/package/app3/landing.jpg",
     "imagesURL": [
@@ -121,7 +121,52 @@
     "websiteURL": "https://quest-from-bitbucket.vercel.app/",
     "githubURL": "",
     "lines_of_code": ""
+  },
+
+
+  {
+    "id": {
+      "id": 4
+    },
+    "title": "QUESTENCE V1.0",
+    "desc": "ED-TECH E-commerce website - react js, paystack integration for payment, profile management, cart,checkout",
+    "thumbnail": "images/package/app4/landing.jpg",
+    "imagesURL": [
+      "images/package/app4/landing.jpg",
+      "images/package/app4/course-grid.jpg",
+      
+      "images/package/app4/login.jpg"
+    ],
+    "projectTypes": {
+      "type": "E commerce",
+      "version": "Full app",
+      "size": "medium"
+    },
+    "technologys": [
+      {
+        
+        "css": ["flex box", "grid system","bootsrap"],
+        "javascript": ["local storage", "ES6"],
+        "react": ["React", "Redux", "reducers"],
+        "php":["laravel"]
+      }
+    ],
+    "components": ["Home", "All Courses", "Course Details", "checkout page"],
+    "owner": "saladinjake",
+    "time_upload": null,
+    "rating": 6.9,
+    "pages": 6,
+    "dynamic": true,
+    "responsive": false,
+    "colors": ["#dc3030", "#f5eee4"],
+    "fonts": ["Helvetica Now Text", "Trajan Prot", "arial"],
+    "themes": ["light"],
+    "code": "private",
+    "websiteURL": "https://ed-tech-frontent-react-redux.vercel.app/",
+    "githubURL": "",
+    "lines_of_code": ""
   }
+
 
   
 ]
