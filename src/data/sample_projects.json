@@ -173,12 +173,12 @@
     },
     "title": "Adminc ED-TECH QUESTENCE V2.0",
     "desc": "ED-TECH E-commerce website - react js, paystack integration for payment, profile management, cart,checkout",
-    "thumbnail": "images/package/app4/landing.jpg",
+    "thumbnail": "images/package/app5/landing.jpg",
     "imagesURL": [
       "images/package/app5/landing.jpg",
       "images/package/app5/history.jpg",
       
-      "images/package/app4/login.jpg"
+      "images/package/app5/login.jpg"
     ],
     "projectTypes": {
       "type": "Edtech - commerce",
